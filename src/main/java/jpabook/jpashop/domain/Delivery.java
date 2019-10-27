@@ -22,6 +22,6 @@ public class Delivery {
     private Address address;
 
     @Enumerated(EnumType.STRING)
-    private DilveryStatus status;
+    private DeliveryStatus status;
 
 }
